@@ -1,0 +1,23 @@
+*{box-sizing: border-box
+  ;}
+
+  body{
+    margin:50px;
+  }
+
+  .container{
+    border:3px solid grey;
+    height:150vh;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    
+  }
+
+  .box{
+    width:10rem;
+    height:10rem;
+    background: gold;
+    margin:.5rem;
+  }
