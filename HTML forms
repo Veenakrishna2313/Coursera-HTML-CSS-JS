@@ -1,0 +1,7 @@
+<form 
+action="http://www.example.com/subscribe.php" // where the data entered in the form should go.
+id="form1"
+method="get/post"> // is the form used to get data from server or post data to server
+<p> this is a form example
+</p>
+ </form>
